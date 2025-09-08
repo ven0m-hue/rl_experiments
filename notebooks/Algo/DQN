@@ -101,29 +101,6 @@
     {
       "cell_type": "markdown",
       "source": [
-        "## Set the GPU 💪\n",
-        "- To **accelerate the agent's training, we'll use a GPU**. To do that, go to `Runtime > Change Runtime type`\n",
-        "\n",
-        "<img src=\"https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/notebooks/gpu-step1.jpg\" alt=\"GPU Step 1\">"
-      ],
-      "metadata": {
-        "id": "PU4FVzaoM6fC"
-      }
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "- `Hardware Accelerator > GPU`\n",
-        "\n",
-        "<img src=\"https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/notebooks/gpu-step2.jpg\" alt=\"GPU Step 2\">"
-      ],
-      "metadata": {
-        "id": "KV0NyFdQM9ZG"
-      }
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
         "# Install RL-Baselines3 Zoo and its dependencies 📚\n",
         "\n",
         "If you see `ERROR: pip's dependency resolver does not currently take into account all the packages that are installed.` **this is normal and it's not a critical error** there's a conflict of version. But the packages we need are installed."
